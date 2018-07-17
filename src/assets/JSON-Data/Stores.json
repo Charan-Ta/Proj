@@ -1,0 +1,451 @@
+[
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "350 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine 3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    },
+    {"StoreName": "T- Mobile", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364788",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "San Jose", "StoreAddressLine3":"",
+      "AppleID":"667542", "City": "San Jose", "District": ""
+    },
+    {"StoreName": "AT & T", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364790",
+      "LocalizedStoreName":"", "StoreAddressLine1": "325 Potero Avenue", "StoreAddressLine2": "Santa Clara", "StoreAddressLine3":"",
+      "AppleID":"667543", "City": "Santa Clara", "District": ""
+    },
+    {"StoreName": "Best Buy", "ContractID": "", "Country": "USA", "DCOTAConnection": "Wi-Fi","SFOStoreID":"2364787",
+      "LocalizedStoreName":"", "StoreAddressLine1": "475 Potero Avenue", "StoreAddressLine2": "Sunnyvale", "StoreAddressLine3":"",
+      "AppleID":"667541", "City": "Sunnyvale", "District": ""
+    }
+    
+  ]

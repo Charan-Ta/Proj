@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { StoresService } from './Services/stores.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  public stores = [];
+
+  constructor( private _storesservice : StoresService) { }
+
+  ngOnInit(){
+    this._storesservice.getStores()
+        .subscribe(data => this.stores = data)
+  }
 }
