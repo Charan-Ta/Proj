@@ -1,30 +1,11 @@
-<table>
-  <tr>
-    <th><div>Store Name</div></th>
-    <th><div>Contract ID</div></th>
-    <th><div>Country</div></th>
-    <th><div>DCOTA Connection</div></th>
-    <th><div>SFO Store ID</div></th>
-    <th><div>Localized Store Name</div></th>
-    <th><div>Store Address Line 1</div></th>
-    <th><div>Store Address Line2</div></th>
-    <th><div>Store Address Line 3</div></th>
-    <th><div>Apple ID</div></th>
-    <th><div>City</div></th>
-    <th><div>District</div></th>
-  </tr>
-  <tr *ngFor="let store of stores">
-    <td><div><a href="#">{{store.StoreName}}</a></div></td>
-    <td><div>{{store.ContractID}}</div></td>
-    <td><div>{{store.Country}}</div></td>
-    <td><div>{{store.DCOTAConnection}}</div></td>
-    <td><div>{{store.SFOStoreID}}</div></td>
-    <td><div>{{store.LocalizedStoreName}}</div></td>
-    <td><div>{{store.StoreAddressLine1}}</div></td>
-    <td><div>{{store.StoreAddressLine2}}</div></td>
-    <td><div>{{store.StoreAddressLine3}}</div></td>
-    <td><div>{{store.AppleID}}</div></td>
-    <td><div>{{store.City}}</div></td>
-    <td><div>{{store.District}}</div></td>
-  </tr>
-</table>
+<div class="stores-table">
+  <table>
+    <tr>
+      <th *ngFor="let heading of _tableHeadingNames"><div (click)="sortBy(heading)">{{heading}}<span><</span></div></th>
+    </tr>
+    <tr *ngFor="let store of stores">
+      <td *ngFor="let heading of _tableHeadingNames"><div><a href="#">{{store[heading]}}</a></div></td>
+    </tr>
+  </table>
+</div>
+<p>Showing {{stores.length}} results</p>

@@ -14,5 +14,12 @@ export class StoresService {
 
   getStores(): Observable<IStores[]>{
     return this.http.get<IStores[]>(this._url);
+    //Is it mandatory to declare the type of Observable??
+    //You do not have to define any type
+    //I guess this is angular 6
+    //Don't use it. It is in beta phase
+    //npm install @angular/cli@1 -- for angular 5
+    //@1 will install CLI 1.7.6 which is angular 5
+    //
   }
 }
