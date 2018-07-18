@@ -10,11 +10,15 @@ table {
     width: 100%;
     font-size: 15px;
 }
-
+.stores-headings{
+    position: fixed;
+    margin-top: -24px;
+}
 td, th {
     border: 1px solid #dddddd;
     text-align: center;
     padding: 5px 0px;
+    width: 117px;
 }
 th{
     padding: 0px 5px;
@@ -27,4 +31,17 @@ table a{
 }
 tr:nth-child(even) {
     background-color: #dddddd;
+}
+._header{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding: 2px 0;
+    width: 110px;
+}
+.table_content{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 117px;
 }

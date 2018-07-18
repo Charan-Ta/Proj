@@ -1,10 +1,13 @@
 <div class="stores-table">
-  <table>
+  <table class="stores-headings">
     <tr>
-      <th *ngFor="let heading of _tableHeadingNames"><div (click)="sortBy(heading)">{{heading}}<span><</span></div></th>
+      <th *ngFor="let heading of _tableHeadingNames" ><div (click)="sortBy(heading)"
+        class="_header">{{heading}}<span>&#x25BE;</span></div></th>
     </tr>
+  </table>
+  <table>
     <tr *ngFor="let store of stores">
-      <td *ngFor="let heading of _tableHeadingNames"><div><a href="#">{{store[heading]}}</a></div></td>
+      <td *ngFor="let heading of _tableHeadingNames"><div><a href="#" class="table_content">{{store[heading]}}</a></div></td>
     </tr>
   </table>
 </div>
